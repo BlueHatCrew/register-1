@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "A classroom website.",
+
+  "domain": "is-local.org",
+  "subdomain": "classsroom",
+
+  "owner": {
+    "repo": "https://github.com/BlueHatCrew/register-1/",
+    "email": "bluehatcrewch@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "glitch.edgeapp.net.",
+  },
+
+  "proxy": false
+}
